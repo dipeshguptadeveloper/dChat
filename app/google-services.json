@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278172661769",
+    "project_id": "dchat-e6760",
+    "storage_bucket": "dchat-e6760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278172661769:android:f5d493cce6967b9f0260d8",
+        "android_client_info": {
+          "package_name": "com.example.dchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278172661769-575m166sfo1lkeekcu8kisv88uu2qdjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjaVN_4HrNZJiUjYjZ6tq1bj9syQqCmhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278172661769-575m166sfo1lkeekcu8kisv88uu2qdjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

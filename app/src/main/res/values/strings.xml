@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">dChat</string>
+    <string name="otpImage">otpImage</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="we_will_send_you_an">We will send you an</string>
+    <string name="one_time_password">One Time Password</string>
+    <string name="on_this_mobile_no">on this mobile no....</string>
+    <string name="enter_your_mobile_number">Enter your Mobile Number</string>
+    <string name="btn_continue">Continue</string>
+    <string name="enter_the_otp_to_verify_your_mobile_no">Enter the OTP to verify your Mobile No.</string>
+    <string name="verify_number">Verify +919867990635</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="please_set_your_name_and_an_optional_profile_image">Please set your name and an optional Profile Image</string>
+    <string name="type_your_name">Type your Name</string>
+</resources>
